@@ -7,6 +7,7 @@ st.write("Esta aplicacion realiza la suma de dos números")
 num1 = 0
 num2 = 0
 
+
 num1 = st.text_input("Ingrese el primer número")
 num2 = st.text_input("Ingrese el segundo número")
 
